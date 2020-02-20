@@ -1,0 +1,7 @@
+{
+  "functions": {
+    "api/**/*.ru": {
+      "runtime": "@now/ruby@1.0.1"
+    }
+  }
+}
